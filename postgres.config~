@@ -1,0 +1,5 @@
+pg_username=synerzip
+pg_password=synerzip
+pg_host=localhost
+pg_port=5432
+pg_database=cambridge
