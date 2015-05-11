@@ -1,0 +1,6 @@
+﻿DO $$
+BEGIN         
+	create table if not exists etl.department(dept_id serial,dept_name varchar(100),primary key(dept_id));
+END $$;
+		
+
